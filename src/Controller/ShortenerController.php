@@ -2,7 +2,6 @@
 
 namespace App\Controller;
 
-use App\Service\ShortenerService;
 use App\Shortener\Interface\DecoderInterface;
 use App\Shortener\Interface\EncoderInterface;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
